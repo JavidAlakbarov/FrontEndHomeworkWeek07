@@ -1,0 +1,27 @@
+[
+    {
+    "name": "Macallan",
+    "surname": "Terra",
+    "age": 25,
+    "salary": 2500    
+    },
+    {
+        "name": "Dalmore",
+        "surname": "Quartet",
+        "age": 18,
+        "salary": 2400    
+    },
+    {
+        "name": "Jameson",
+        "surname": "Barrel",
+        "age": 12,
+        "salary": 2300    
+    },
+    {
+        "name": "Glenmorangie",
+        "surname": "Signet",
+        "age": 32,
+        "salary": 2200    
+    }
+]
+
